@@ -1,5 +1,11 @@
 # ERNIE-4.5 Fine-tuning Project
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97_HuggingFace-FFD21E?style=flat-square)](https://huggingface.co/)
+[![Unsloth](https://img.shields.io/badge/Unsloth-4B2E83?style=flat-square)](https://github.com/unslothai/unsloth)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 This project contains a fine-tuned version of the Baidu ERNIE-4.5 model (0.3B-Base-PT) trained on high-quality conversational datasets.
 
 ## 📋 Project Overview
